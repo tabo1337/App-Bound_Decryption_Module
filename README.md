@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Platform-Windows%20x64-0078D6?logo=windows&logoColor=white" alt="Windows x64">
   <img src="https://img.shields.io/badge/Runtime-Node.js%2018%2B-339933?logo=node.js&logoColor=white" alt="Node.js 18+">
   <img src="https://img.shields.io/badge/Native-C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="Native C++">
-  <img src="https://img.shields.io/badge/Status-Responsibly%20Disclosed-success" alt="Still Works Fine">
+  <img src="https://img.shields.io/badge/Status-Working-success" alt="Still Works Fine">
 </p>
 
 <p align="center">
