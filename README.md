@@ -1,4 +1,4 @@
-# Browser Encryption 
+# Browser Encryption  (If you want buy u can add me on discord "ibo" or Telegram @SluttyDevs
 
 <p align="center">
  <a href="https://t.me/SluttyDevs">
